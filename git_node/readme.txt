@@ -52,4 +52,6 @@ branch
 - to create a new branch
 git pull > before branching
 git checkout -b <branch name>
--
+- git stash
+- git revert
+- git rebase
